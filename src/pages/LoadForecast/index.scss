@@ -1,0 +1,37 @@
+#load-forecast {
+  .next-icestark-card-content-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+  }
+}
+.forecast-date {
+  line-height: 25px;
+  padding-left: 5px;
+}
+.laod-dialog {
+  width: 80%;
+}
+.loader-tablecard {
+  border: 1px solid #e8e8e8;
+}
+.load-table {
+  margin-top: 10px;
+}
+.need-collect-col {
+  height: 400px;
+  margin-bottom: 5px;
+}
+.need-collect-echart {
+  height: 100%;
+}
+.table-card-data {
+  color: #1890ff;
+}
+.table-card-container {
+  min-height: 158px;
+}
+.load-forecast-fore {
+  height: 320px;
+  border-radius: 3px;
+}

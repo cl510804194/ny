@@ -1,0 +1,32 @@
+.carbon-item-container {
+  height: 220px;
+  border: 0;
+}
+.carbon-csr {
+  list-style-type: disc;
+  li {
+    // padding: 7px 0px;
+  }
+}
+#carbon-container {
+  .next-icestark-list-item-content {
+    font-weight: 400;
+    text-align: center;
+  }
+}
+.carbon-col {
+  // margin-top: 5px;
+  margin-bottom: 5px;
+  // height: 425px;
+}
+.carbon-measure-all {
+  // text-align: center;
+  padding: 5px 0;
+}
+.carbon-measure-list {
+  .next-icestark-list-item-content {
+    flex-direction: row;
+    line-height: 10px;
+    padding: 7px 0;
+  }
+}

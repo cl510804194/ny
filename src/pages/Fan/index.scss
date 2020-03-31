@@ -1,0 +1,33 @@
+#fan {
+  .ice-title {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: #fff;
+  }
+  .next-icestark-list-item-content {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+.fan-info-data {
+  font-size: 18px;
+  font-weight: 800;
+}
+.fan-col {
+  background-color: #fff;
+}
+.fan-images {
+  display: block;
+  margin: 0 auto;
+  //   text-align: center;
+}
+.fan-card {
+  margin-bottom: 5px;
+}
+.fan-progress {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

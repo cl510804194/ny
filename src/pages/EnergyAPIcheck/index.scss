@@ -1,0 +1,34 @@
+.check-button-group {
+  display: flex;
+}
+.api-absis-icon-up {
+  color: red;
+}
+.api-absis-icon-down {
+  color: green;
+}
+.api-echart-item-title {
+  display: flex;
+  justify-content: space-around;
+}
+.api-echart-item-title-first {
+  font-weight: 600;
+}
+.api-echarts-item-container {
+  height: 400px;
+}
+.kpi-table-container {
+  border: 1px solid #e8e8e8;
+  background-color: #fff;
+  padding: 24px;
+  // margin: 10px 0px;
+}
+.kpi-header {
+  display: flex;
+}
+.api-table-echarts-item-container {
+  height: 100px;
+  width: 100%;
+  padding: 0;
+  border: 0;
+}

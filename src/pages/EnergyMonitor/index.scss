@@ -1,0 +1,56 @@
+.monitor-header {
+  padding: 10px;
+  background-color: #fff;
+}
+.monitor-header1 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+#monitor-container {
+  .next-icestark-card-header-subtitle {
+    font-size: 8px;
+  }
+  .next-icestark-card-content-container {
+    margin-top: 0;
+  }
+}
+.table-card-data {
+  font-size: 18px;
+  font-weight: 800;
+}
+.table-card-header {
+  min-height: 40px;
+  margin-bottom: 0;
+}
+.infotable-container {
+  padding: 10px;
+  width: 100%;
+  margin-top: 30px;
+}
+.echarts-item {
+  height: 100%;
+  width: 100%;
+}
+.table-card-container {
+  margin-bottom: 5px;
+}
+.echarts-item-container {
+  background-color: #fff;
+  margin-bottom: 4px;
+  height: 300px;
+  padding: 20px;
+  width: 100%;
+  border: 0;
+  position: relative;
+}
+.echart-item-title {
+  position: absolute;
+  top: 5px;
+  left: 20px;
+}
+.echars-image {
+  padding-top: 30px;
+  width: 100%;
+  height: 100%;
+}

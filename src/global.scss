@@ -1,0 +1,14 @@
+// 引入默认全局样式
+@import '@alifd/next/reset.scss';
+
+.ice-stark-loading {
+  display: none;
+}
+#icestark-container {
+  .next-icestark-shell-content {
+    padding: 0px;
+  }
+  .next-icestark-shell-light .next-icestark-shell-main {
+    background: #f0f2f5;
+  }
+}
